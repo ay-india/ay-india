@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay-india&label=Profile%20views&color=0e75b6&style=flat" alt="ay-india" width="170" 
      height="40" /> </p>
 
-- 🔭 I’m currently working on **Food Delivery App **
+- 🔭 I’m currently working on **Food Delivery App**
 
 - 👯 Interested in **Flutter**
 
