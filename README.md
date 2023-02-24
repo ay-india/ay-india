@@ -12,8 +12,7 @@
 
 - 🤝 Love to do **CP**
 
-- 📫 How to reach me **ashishyd240@gmail.com**
--                    **ashishyadav@onmail.com**
+- 📫 How to reach me **ashishyd240@gmail.com / ashishyadav@onmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
